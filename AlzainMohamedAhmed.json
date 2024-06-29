@@ -12,7 +12,7 @@
     "RewardNetwork"           : "admob",
     "NativeNetwork"           : "admob",
     
-    "IntervalClick"           : 5,
+    "IntervalClick"           : 4,
     
     "AdMob_Banner"            : "ca-app-pub-8959071608776703/8955494665",
     "AdMob_InterstitialAd"    : "ca-app-pub-8959071608776703/3121795626",
@@ -37,7 +37,7 @@
     "IronSourceKey"           : "1197d7c85",
     
     "PrivacyUrl"              : "https://sites.google.com/view/devghali/",
-    "webUrl"                  : "https://app-ghali.store/",
+    "webUrl"                  : "https://dev-ghali.com/",
     "URL1"                    : "https://server9.mp3quran.net/alzain/",
     "OnesignalKey"            : "60a6461a-c058-4eac-a1d5-a5e8c2daad25"
 
